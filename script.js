@@ -16,12 +16,12 @@ questions -= 1;
 questionsLeft = ' [' + questions + ' questions left]';
 console.log(questionsLeft);
 
-let country2 = prompt('Please type a another country name' + questionsLeft);
+let country2 = prompt('Please type name of another country ' + questionsLeft);
 questions -= 1;
 questionsLeft = ' [' + questions + ' questions left]';
 console.log(questionsLeft);
 
-let country3 = prompt('Please type a another country name' + questionsLeft);
+let country3 = prompt('Please type name of another country ' + questionsLeft);
 questions -= 1;
 questionsLeft = ' [' + questions + ' questions left]';
 console.log(questionsLeft);
